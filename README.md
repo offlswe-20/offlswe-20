@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>R.SWETHA- Resume</title>   
+    <meta charset="UTF-8"> 
 </head>
 <body>
 
