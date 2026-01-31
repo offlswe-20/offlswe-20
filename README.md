@@ -2,30 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>R.SWETHA- Resume</title>
-    <style>
-        body{
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-            color:#333;
-        }
-        h1{
-            color:#2c3e50;
-        }
-        h2{
-            border-bottom:2px solid #2c3e50;
-            padding-bottom:5px;
-            margin-top:30px;
-        }
-        a{
-            color:#2980b9;
-            text-decoration:none;
-        }
-        ul{
-            margin-top:5px;
-        }
-    </style>
+    <title>R.SWETHA- Resume</title>   
 </head>
 <body>
 
